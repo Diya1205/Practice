@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.main-2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.section-1-1{
+    height: 280px;
+    width: 300px;
+    border: solid 1px black;
+}
+.sectiom-1-1-1{
+   position: relative;
+    height: 150px;
+    width: 300px;
+    background-color: gray;
+    
+}
+.p1{
+    position: absolute;
+    color: aliceblue;
+    margin-left: 90px;
+    font-size: 25px;
+    margin-top: 55px;
+}
+.p2{
+    width: 270px;
+    margin-left: 15px;
+}
+.btn1{
+    position: absolute;
+    margin-left: 15px;
+    background-color: white;
+}
+.btn2{
+    position: absolute;
+    background-color: white;
+    margin-left: 53px;
+}
